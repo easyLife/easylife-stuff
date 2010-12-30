@@ -44,3 +44,4 @@ libflashplayer-10.0.22.87.linux-x86_64.so.tar.gz;http://download.macromedia.com/
 libflashplayer-10.0.32.18.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.45.2.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 flashplayer_square_p2_64bit_linux_092710.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
+libtxc_dxtn070518.tar.gz;http://wildfiregames.com/users/code/
