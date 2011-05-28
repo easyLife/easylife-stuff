@@ -1,5 +1,6 @@
 msttcorefonts-2.0-1.noarch.rpm;http://www.ctec.ufal.br/grupopesquisa/grilu/easyLife/
 msttcore-fonts-2.0-2.noarch.rpm;http://www.lonelyspooky.com/easylife/
+msttcore-fonts-2.0-3.noarch.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc10.i386.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc10.x86_64.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc11.i586.rpm;http://www.lonelyspooky.com/easylife/
@@ -23,6 +24,12 @@ AdobeReader_esp-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/un
 AdobeReader_nld-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/nld/
 AdobeReader_deu-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/deu/
 AdobeReader_ita-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/ita/
+AdbeRdr9.4.2-1_i486linux_enu.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/9.x/9.4.2/enu/
+AdobeReader_ptb-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/ptb/
+AdobeReader_esp-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/esp/
+AdobeReader_nld-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/nld/
+AdobeReader_deu-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/deu/
+AdobeReader_ita-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/ita/
 jre-6u3-linux-i586-rpm.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=12790
 jre-6u5-linux-i586-rpm.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=18704
 jre-6u5-linux-x64-rpm.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=18706
@@ -40,8 +47,11 @@ jre-6u20-linux-i586.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=3
 jre-6u20-linux-x64.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=39489
 jre-6u21-linux-i586.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=40907
 jre-6u21-linux-x64.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=40911
+jre-6u25-linux-i586.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=48334
+jre-6u25-linux-x64.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=48338
 libflashplayer-10.0.22.87.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.32.18.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.45.2.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 flashplayer_square_p2_64bit_linux_092710.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
+flashplayer10_2_p3_64bit_linux_111710.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libtxc_dxtn070518.tar.gz;http://wildfiregames.com/users/code/
