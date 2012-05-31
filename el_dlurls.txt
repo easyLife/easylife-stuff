@@ -1,6 +1,7 @@
 msttcorefonts-2.0-1.noarch.rpm;http://www.ctec.ufal.br/grupopesquisa/grilu/easyLife/
 msttcore-fonts-2.0-2.noarch.rpm;http://www.lonelyspooky.com/easylife/
 msttcore-fonts-2.0-3.noarch.rpm;http://www.lonelyspooky.com/easylife/
+msttcore-fonts-2.0-5.noarch.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc10.i386.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc10.x86_64.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc11.i586.rpm;http://www.lonelyspooky.com/easylife/
