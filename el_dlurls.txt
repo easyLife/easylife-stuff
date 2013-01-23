@@ -1,6 +1,7 @@
 msttcorefonts-2.0-1.noarch.rpm;http://www.ctec.ufal.br/grupopesquisa/grilu/easyLife/
 msttcore-fonts-2.0-2.noarch.rpm;http://www.lonelyspooky.com/easylife/
 msttcore-fonts-2.0-3.noarch.rpm;http://www.lonelyspooky.com/easylife/
+msttcore-fonts-2.0-5.noarch.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc10.i386.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc10.x86_64.rpm;http://www.lonelyspooky.com/easylife/
 chkfontpath-1.10.1-2.fc11.i586.rpm;http://www.lonelyspooky.com/easylife/
@@ -8,6 +9,7 @@ chkfontpath-1.10.1-2.fc11.x86_64.rpm;http://www.lonelyspooky.com/easylife/
 mplayer-codecs-20061022-1.i386.rpm;http://www.jasonnfedora.eti.br/codecs/
 mplayer-codecs-extra-20061022-1.i386.rpm;http://www.jasonnfedora.eti.br/codecs/
 mplayer-codecs-all-20071007-1.i386.rpm;http://www.lonelyspooky.com/easylife/
+mplayer-codecs-all-20110131-1.i386.rpm;http://www.lonelyspooky.com/easylife/
 libdvdcss-1.2.9-5.fc10.x86_64.rpm;http://www.lonelyspooky.com/easylife/
 libdvdcss-1.2.9-5.fc10.i386.rpm;http://www.lonelyspooky.com/easylife/
 nuoveXT.2.2.tar.bz2;http://www.gnome-look.org/content/download.php?content=56625&id=1&tan=59979107
@@ -24,12 +26,12 @@ AdobeReader_esp-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/un
 AdobeReader_nld-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/nld/
 AdobeReader_deu-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/deu/
 AdobeReader_ita-8.1.2-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/ita/
-AdbeRdr9.4.2-1_i486linux_enu.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/9.x/9.4.2/enu/
 AdobeReader_ptb-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/ptb/
 AdobeReader_esp-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/esp/
 AdobeReader_nld-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/nld/
 AdobeReader_deu-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/deu/
 AdobeReader_ita-8.1.7-1.i486.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/8.x/8.1.2/ita/
+AdbeRdr9.4.2-1_i486linux_enu.rpm;http://ardownload.adobe.com/pub/adobe/reader/unix/9.x/9.4.2/enu/
 jre-6u3-linux-i586-rpm.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=12790
 jre-6u5-linux-i586-rpm.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=18704
 jre-6u5-linux-x64-rpm.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=18706
@@ -51,6 +53,10 @@ jre-6u25-linux-i586.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=4
 jre-6u25-linux-x64.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=48338
 jre-6u29-linux-i586.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=56690
 jre-6u29-linux-x64.bin;http://javadl.sun.com/webapps/download/AutoDL?BundleId=56692
+jre-7u4-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=63202
+jre-7u4-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=63204
+jre-7u11-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=73132
+jre-7u11-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=73134
 libflashplayer-10.0.22.87.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.32.18.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.45.2.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
@@ -59,3 +65,4 @@ flashplayer10_2_p3_64bit_linux_111710.tar.gz;http://download.macromedia.com/pub/
 libtxc_dxtn070518.tar.gz;http://wildfiregames.com/users/code/
 skype-2.2.0.25-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-beta-fc10
 skype-2.2.0.35-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-beta-fc10
+skype-4.1.0.20-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-fc10
