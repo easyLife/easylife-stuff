@@ -59,6 +59,8 @@ jre-7u11-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleI
 jre-7u11-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=73134
 jre-7u25-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=78695
 jre-7u25-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=78697
+jre-7u45-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=81810
+jre-7u45-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=81812
 libflashplayer-10.0.22.87.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.32.18.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.45.2.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
@@ -68,3 +70,4 @@ libtxc_dxtn070518.tar.gz;http://wildfiregames.com/users/code/
 skype-2.2.0.25-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-beta-fc10
 skype-2.2.0.35-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-beta-fc10
 skype-4.1.0.20-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-fc10
+skype-4.2.0.11-fedora.i586.rpm;http://www.skype.com/go/getskype-linux-beta-fc10
