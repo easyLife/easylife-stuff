@@ -66,6 +66,8 @@ jre-8u25-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleI
 jre-8u25-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=97360
 jre-8u45-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=106238
 jre-8u45-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=106240
+jre-8u66-linux-i586.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=111739
+jre-8u66-linux-x64.tar.gz;http://javadl.sun.com/webapps/download/AutoDL?BundleId=111741
 libflashplayer-10.0.22.87.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.32.18.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
 libflashplayer-10.0.45.2.linux-x86_64.so.tar.gz;http://download.macromedia.com/pub/labs/flashplayer10/
